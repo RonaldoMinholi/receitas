@@ -1,10 +1,3 @@
-# Livro de receitas :man_cook:
+Espaço para armazenamento de atividades do curso de Git / GitHub do BootCamp LocalizaLabs da Digital Innovation One.
 
-
-
-Olá, bem vindo ao meu livro de receitas :wave:
-
-- Strogonoff de frango
-
-- Pavê
-# livro-receitas
+Exercício de envio de arquivo de livro de receitas.
